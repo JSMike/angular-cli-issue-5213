@@ -1,4 +1,8 @@
-# Rc1
+# Angular CLI 1.0.0-rc.1 Issue# 5213 example
+
+Font example from: [http://fontsgeek.com/fonts/Gotham-Light-Regular](http://fontsgeek.com/fonts/Gotham-Light-Regular)
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
 
